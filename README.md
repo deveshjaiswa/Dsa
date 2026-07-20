@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deveshjaiswa/Dsa/tree/master/0001-two-sum) |
+| [0860-lemonade-change](https://github.com/deveshjaiswa/Dsa/tree/master/0860-lemonade-change) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deveshjaiswa/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@ LeetCode
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/deveshjaiswa/Dsa/tree/master/0700-search-in-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/deveshjaiswa/Dsa/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
