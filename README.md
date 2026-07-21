@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deveshjaiswa/Dsa/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/deveshjaiswa/Dsa/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/deveshjaiswa/Dsa/tree/master/0860-lemonade-change) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deveshjaiswa/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -62,5 +63,10 @@ LeetCode
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/deveshjaiswa/Dsa/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/deveshjaiswa/Dsa/tree/master/0860-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/deveshjaiswa/Dsa/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
