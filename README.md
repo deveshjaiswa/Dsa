@@ -12,6 +12,7 @@ LeetCode
 | [0198-house-robber](https://github.com/deveshjaiswa/Dsa/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/deveshjaiswa/Dsa/tree/master/0542-01-matrix) |
 | [0860-lemonade-change](https://github.com/deveshjaiswa/Dsa/tree/master/0860-lemonade-change) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deveshjaiswa/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deveshjaiswa/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ LeetCode
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deveshjaiswa/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deveshjaiswa/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -89,4 +91,8 @@ LeetCode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deveshjaiswa/Dsa/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deveshjaiswa/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
