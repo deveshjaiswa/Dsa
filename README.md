@@ -19,6 +19,7 @@ LeetCode
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deveshjaiswa/Dsa/tree/master/0070-climbing-stairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deveshjaiswa/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ LeetCode
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/deveshjaiswa/Dsa/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/deveshjaiswa/Dsa/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/deveshjaiswa/Dsa/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/deveshjaiswa/Dsa/tree/master/0542-01-matrix) |
 ## Breadth-First Search
@@ -81,4 +83,8 @@ LeetCode
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/deveshjaiswa/Dsa/tree/master/0542-01-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deveshjaiswa/Dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
