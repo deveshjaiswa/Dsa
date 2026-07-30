@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deveshjaiswa/Dsa/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/deveshjaiswa/Dsa/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/deveshjaiswa/Dsa/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/deveshjaiswa/Dsa/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/deveshjaiswa/Dsa/tree/master/0198-house-robber) |
@@ -21,6 +22,7 @@ LeetCode
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deveshjaiswa/Dsa/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/deveshjaiswa/Dsa/tree/master/0070-climbing-stairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deveshjaiswa/Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -86,6 +88,7 @@ LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deveshjaiswa/Dsa/tree/master/0048-rotate-image) |
 | [0542-01-matrix](https://github.com/deveshjaiswa/Dsa/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
